@@ -1,0 +1,6 @@
+Memakai Framework Laravel
+
+Pemanggilannya
+http://127.0.0.1:8000/portofolio
+
+Aktifkan terlebih dahulu serve laravelnya
