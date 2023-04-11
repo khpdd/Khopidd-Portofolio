@@ -1,0 +1,355 @@
+/*
+	@name desainer_grafis
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 2331px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desainer_grafis_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2331px;
+}
+
+#_bg__desainer_grafis_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2331px;
+	background:rgba(255,255,255,1);
+}
+
+#footer {
+	top: 2134px;
+	left: 0px;
+	width: 1440px;
+	height: 197px;
+}
+#menu {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 197px;
+}
+
+#background3 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 197px;
+	background:rgba(3,27,61,1);
+}
+
+
+#_home {
+	top: 35px;
+	left: 539px;
+	width: 67px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_about {
+	top: 35px;
+	left: 694px;
+	width: 74px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_hobby {
+	top: 35px;
+	left: 856px;
+	width: 74px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#copyright_by_khopidd_2023 {
+	top: 166px;
+	left: 631px;
+	width: 177px;
+	height: 26px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: left;
+	color:#FFFAFA;
+}
+
+
+#__img___hobby {
+	top: 1434px;
+	left: 0px;
+	width: 1440px;
+	height: 700px;
+}
+
+#about_ek1 {
+	top: 800px;
+	left: 0px;
+	width: 1440px;
+	height: 634px;
+}
+
+#background2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 634px;
+	background:rgba(3,27,61,1);
+}
+
+
+#background_image {
+	opacity:0.25;
+	top: 97px;
+	left: 245px;
+	width: 330px;
+	height: 420px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	
+	-ms-transform:rotate(-7.17deg);
+	-o-transform:rotate(-7.17deg);
+	-webkit-transform:rotate(-7.17deg);
+	-moz-transform:rotate(-7.17deg);
+	transform:rotate(-7.17deg);
+	background:rgba(196,196,196,0.25);
+}
+
+
+#__img___portrait_image {
+	top: 96.94px;
+	left: 244.91px;
+	width: 330px;
+	height: 420px;
+}
+
+
+#about_ek2 {
+	top: 97px;
+	left: 653px;
+	width: 108px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#mochamad_khopid {
+	top: 132px;
+	left: 652px;
+	width: 347px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Reem Kufi Fun;
+	font-size: 36px;
+	text-align: left;
+	color:#FFB700;
+}
+
+
+#__img___about_line {
+	top: 115px;
+	left: 752px;
+	width: 70px;
+	height: 3px;
+}
+
+
+#skills {
+	top: 299px;
+	left: 653px;
+	width: 99px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#__img___skills_line {
+	top: 317px;
+	left: 752px;
+	width: 70px;
+	height: 3px;
+}
+
+
+#seorang_desainer_grafis_yang_suka_akan_dengan_namanya_imajinasi__dengan_imajinasi_membuat_otak_saya_menjadi_mudah_akan_mendesain__sangat_besar_keinginan_akan_tahu_terhadap_semua_yang_berkaitan_dengan_desain_ {
+	top: 186px;
+	left: 652px;
+	width: 589px;
+	height: 135px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#slice_1 {
+	opacity:0;
+	top: 172px;
+	left: 969px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#__img___skills_list {
+	top: 313px;
+	left: 652px;
+	width: 528px;
+	height: 130px;
+}
+
+#home_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 800px;
+}
+
+#background1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 800px;
+	background:rgba(2.13,2.13,2.13,1);
+}
+
+
+#__img___image {
+	top: 220px;
+	left: 595px;
+	width: 250px;
+	height: 250px;
+}
+
+
+#mochamad_khopid_ek1 {
+	top: 493px;
+	left: 572px;
+	width: 347px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Reem Kufi Fun;
+	font-size: 36px;
+	text-align: left;
+	color:#FFB700;
+}
+
+
+#i_am_designer_grafis {
+	top: 547px;
+	left: 596px;
+	width: 268px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#__img___social_media {
+	top: 217px;
+	left: 60px;
+	width: 25px;
+	height: 253px;
+}
+
+
+#social_media {
+	top: 334px;
+	left: -22px;
+	width: 125px;
+	height: 26px;
+	overflow: hidden;
+	
+	-ms-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-moz-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: left;
+	letter-spacing: 2.4px;
+	color:#FFFFFF;
+}
+
+
+#_hobby_ek1 {
+	top: 24px;
+	left: 1217px;
+	width: 74px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_about_ek3 {
+	top: 24px;
+	left: 1053px;
+	width: 74px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_home_ek2 {
+	top: 24px;
+	left: 896px;
+	width: 67px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
